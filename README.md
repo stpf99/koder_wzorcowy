@@ -12,3 +12,6 @@ razem 40
 
 
 
+Wzorzec losowy: Z 24 bajtów do ~15 bajtów, co daje stosunek ~27 razy mniejszy od JPG (407 bajtów) i ~6.3 razy mniejszy od PNG (94 bajty). To bardzo blisko teoretycznego minimum (8 bajtów danych + minimalny nagłówek).
+Wzorzec "Every Second": Z ~25 bajtów do ~20 bajtów, ~4–5 razy mniejszy od PNG.
+Wzorzec "Blocky": Z ~35 bajtów do ~22 bajtów, ~3.6 razy mniejszy od PNG.
